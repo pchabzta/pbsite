@@ -1,0 +1,40 @@
+body { 
+    margin:0;
+    padding:20px;
+    font-family:helvetica, sans-serif; 
+}
+
+a {
+    color:#00abff;
+    text-decoration:none;
+}
+
+h1 {
+    font-weight:normal;
+    color: crimson;
+
+    border-bottom:1px solid #bbb;
+    padding:0 0 10px 0;
+    background: #00abff;
+}
+
+h2 {
+    font-weight:normal;
+    color: blue;
+    margin:20px 0px 0px 0px;
+    background: burlywood;
+}
+
+#content {
+    float:left;
+    width:60%;
+    padding:0 0 0 30px;
+}
+
+#sidebar {
+    float:right;
+    width:35%;
+    padding:10px;
+    background:slateblue;
+    height:100%;
+}
